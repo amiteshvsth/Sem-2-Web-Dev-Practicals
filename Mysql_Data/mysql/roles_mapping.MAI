@@ -1,0 +1,1 @@
+`store`.`#sql-16d4_25`, CONSTRAINT `users_items_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)

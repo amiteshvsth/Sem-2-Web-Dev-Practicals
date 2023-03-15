@@ -1,0 +1,17 @@
+<html>
+<head>
+    <title>   </title>
+</head>
+<body>
+        <form action = "form1.php" method = "post">
+            Name: <input type = "text" name = "name"  /><br>
+            Surname: <input type = "text" name = "surname" /><br>
+            Mobile No: <input type = "text" name = "mno" /><br>
+            Age: <input type = "text" name = "no"  /><br>
+            Address: <input type = "text" name = "Address" /><br>
+            <input type = "submit" />
+     </form>
+
+
+</body>
+</html>
